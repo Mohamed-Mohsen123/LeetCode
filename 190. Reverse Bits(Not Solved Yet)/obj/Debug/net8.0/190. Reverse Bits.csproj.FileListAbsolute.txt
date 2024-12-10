@@ -1,0 +1,4 @@
+D:\Leet Code\190. Reverse Bits\obj\Debug\net8.0\190. Reverse Bits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\190. Reverse Bits\obj\Debug\net8.0\190. Reverse Bits.AssemblyInfoInputs.cache
+D:\Leet Code\190. Reverse Bits\obj\Debug\net8.0\190. Reverse Bits.AssemblyInfo.cs
+D:\Leet Code\190. Reverse Bits\obj\Debug\net8.0\190. Reverse Bits.csproj.CoreCompileInputs.cache

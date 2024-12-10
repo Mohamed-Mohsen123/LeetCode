@@ -1,0 +1,14 @@
+D:\Leet Code\191. Number of 1 Bits\bin\Debug\net8.0\191. Number of 1 Bits.exe
+D:\Leet Code\191. Number of 1 Bits\bin\Debug\net8.0\191. Number of 1 Bits.deps.json
+D:\Leet Code\191. Number of 1 Bits\bin\Debug\net8.0\191. Number of 1 Bits.runtimeconfig.json
+D:\Leet Code\191. Number of 1 Bits\bin\Debug\net8.0\191. Number of 1 Bits.dll
+D:\Leet Code\191. Number of 1 Bits\bin\Debug\net8.0\191. Number of 1 Bits.pdb
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\191. Number of 1 Bits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\191. Number of 1 Bits.AssemblyInfoInputs.cache
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\191. Number of 1 Bits.AssemblyInfo.cs
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\191. Number of 1 Bits.csproj.CoreCompileInputs.cache
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\191. Number of 1 Bits.dll
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\refint\191. Number of 1 Bits.dll
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\191. Number of 1 Bits.pdb
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\191. Number of 1 Bits.genruntimeconfig.cache
+D:\Leet Code\191. Number of 1 Bits\obj\Debug\net8.0\ref\191. Number of 1 Bits.dll

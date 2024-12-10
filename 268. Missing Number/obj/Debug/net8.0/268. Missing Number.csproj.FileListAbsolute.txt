@@ -1,0 +1,14 @@
+D:\Problem Solving\Leet Code\268. Missing Number\bin\Debug\net8.0\268. Missing Number.exe
+D:\Problem Solving\Leet Code\268. Missing Number\bin\Debug\net8.0\268. Missing Number.deps.json
+D:\Problem Solving\Leet Code\268. Missing Number\bin\Debug\net8.0\268. Missing Number.runtimeconfig.json
+D:\Problem Solving\Leet Code\268. Missing Number\bin\Debug\net8.0\268. Missing Number.dll
+D:\Problem Solving\Leet Code\268. Missing Number\bin\Debug\net8.0\268. Missing Number.pdb
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\268. Missing Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\268. Missing Number.AssemblyInfoInputs.cache
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\268. Missing Number.AssemblyInfo.cs
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\268. Missing Number.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\268. Missing Number.dll
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\refint\268. Missing Number.dll
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\268. Missing Number.pdb
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\268. Missing Number.genruntimeconfig.cache
+D:\Problem Solving\Leet Code\268. Missing Number\obj\Debug\net8.0\ref\268. Missing Number.dll

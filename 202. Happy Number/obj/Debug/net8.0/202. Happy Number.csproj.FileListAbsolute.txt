@@ -1,0 +1,14 @@
+D:\Leet Code\202. Happy Number\bin\Debug\net8.0\202. Happy Number.exe
+D:\Leet Code\202. Happy Number\bin\Debug\net8.0\202. Happy Number.deps.json
+D:\Leet Code\202. Happy Number\bin\Debug\net8.0\202. Happy Number.runtimeconfig.json
+D:\Leet Code\202. Happy Number\bin\Debug\net8.0\202. Happy Number.dll
+D:\Leet Code\202. Happy Number\bin\Debug\net8.0\202. Happy Number.pdb
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\202. Happy Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\202. Happy Number.AssemblyInfoInputs.cache
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\202. Happy Number.AssemblyInfo.cs
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\202. Happy Number.csproj.CoreCompileInputs.cache
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\202. Happy Number.dll
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\refint\202. Happy Number.dll
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\202. Happy Number.pdb
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\202. Happy Number.genruntimeconfig.cache
+D:\Leet Code\202. Happy Number\obj\Debug\net8.0\ref\202. Happy Number.dll

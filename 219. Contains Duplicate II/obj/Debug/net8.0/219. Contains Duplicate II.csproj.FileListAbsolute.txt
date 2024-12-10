@@ -1,0 +1,14 @@
+D:\Leet Code\219. Contains Duplicate II\bin\Debug\net8.0\219. Contains Duplicate II.exe
+D:\Leet Code\219. Contains Duplicate II\bin\Debug\net8.0\219. Contains Duplicate II.deps.json
+D:\Leet Code\219. Contains Duplicate II\bin\Debug\net8.0\219. Contains Duplicate II.runtimeconfig.json
+D:\Leet Code\219. Contains Duplicate II\bin\Debug\net8.0\219. Contains Duplicate II.dll
+D:\Leet Code\219. Contains Duplicate II\bin\Debug\net8.0\219. Contains Duplicate II.pdb
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\219. Contains Duplicate II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\219. Contains Duplicate II.AssemblyInfoInputs.cache
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\219. Contains Duplicate II.AssemblyInfo.cs
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\219. Contains Duplicate II.csproj.CoreCompileInputs.cache
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\219. Contains Duplicate II.dll
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\refint\219. Contains Duplicate II.dll
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\219. Contains Duplicate II.pdb
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\219. Contains Duplicate II.genruntimeconfig.cache
+D:\Leet Code\219. Contains Duplicate II\obj\Debug\net8.0\ref\219. Contains Duplicate II.dll

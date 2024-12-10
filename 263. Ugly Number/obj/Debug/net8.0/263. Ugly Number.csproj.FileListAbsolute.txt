@@ -1,0 +1,14 @@
+D:\Problem Solving\Leet Code\263. Ugly Number\bin\Debug\net8.0\263. Ugly Number.exe
+D:\Problem Solving\Leet Code\263. Ugly Number\bin\Debug\net8.0\263. Ugly Number.deps.json
+D:\Problem Solving\Leet Code\263. Ugly Number\bin\Debug\net8.0\263. Ugly Number.runtimeconfig.json
+D:\Problem Solving\Leet Code\263. Ugly Number\bin\Debug\net8.0\263. Ugly Number.dll
+D:\Problem Solving\Leet Code\263. Ugly Number\bin\Debug\net8.0\263. Ugly Number.pdb
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\263. Ugly Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\263. Ugly Number.AssemblyInfoInputs.cache
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\263. Ugly Number.AssemblyInfo.cs
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\263. Ugly Number.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\263. Ugly Number.dll
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\refint\263. Ugly Number.dll
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\263. Ugly Number.pdb
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\263. Ugly Number.genruntimeconfig.cache
+D:\Problem Solving\Leet Code\263. Ugly Number\obj\Debug\net8.0\ref\263. Ugly Number.dll

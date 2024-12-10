@@ -1,0 +1,14 @@
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\bin\Debug\net8.0\69. Sqrt(x).exe
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\bin\Debug\net8.0\69. Sqrt(x).deps.json
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\bin\Debug\net8.0\69. Sqrt(x).runtimeconfig.json
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\bin\Debug\net8.0\69. Sqrt(x).dll
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\bin\Debug\net8.0\69. Sqrt(x).pdb
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\69. Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\69. Sqrt(x).AssemblyInfoInputs.cache
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\69. Sqrt(x).AssemblyInfo.cs
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\69. Sqrt(x).csproj.CoreCompileInputs.cache
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\69. Sqrt(x).dll
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\refint\69. Sqrt(x).dll
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\69. Sqrt(x).pdb
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\69. Sqrt(x).genruntimeconfig.cache
+D:\Leet Code\69. Sqrt(x) (NOT SOLVED YET)\obj\Debug\net8.0\ref\69. Sqrt(x).dll

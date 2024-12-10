@@ -1,0 +1,14 @@
+D:\Problem Solving\Leet Code\242. Valid Anagram\bin\Debug\net8.0\242. Valid Anagram.exe
+D:\Problem Solving\Leet Code\242. Valid Anagram\bin\Debug\net8.0\242. Valid Anagram.deps.json
+D:\Problem Solving\Leet Code\242. Valid Anagram\bin\Debug\net8.0\242. Valid Anagram.runtimeconfig.json
+D:\Problem Solving\Leet Code\242. Valid Anagram\bin\Debug\net8.0\242. Valid Anagram.dll
+D:\Problem Solving\Leet Code\242. Valid Anagram\bin\Debug\net8.0\242. Valid Anagram.pdb
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\242. Valid Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\242. Valid Anagram.AssemblyInfoInputs.cache
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\242. Valid Anagram.AssemblyInfo.cs
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\242. Valid Anagram.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\242. Valid Anagram.dll
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\refint\242. Valid Anagram.dll
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\242. Valid Anagram.pdb
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\242. Valid Anagram.genruntimeconfig.cache
+D:\Problem Solving\Leet Code\242. Valid Anagram\obj\Debug\net8.0\ref\242. Valid Anagram.dll

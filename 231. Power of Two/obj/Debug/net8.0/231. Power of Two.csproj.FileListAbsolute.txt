@@ -1,0 +1,14 @@
+D:\Leet Code\231. Power of Two\bin\Debug\net8.0\231. Power of Two.exe
+D:\Leet Code\231. Power of Two\bin\Debug\net8.0\231. Power of Two.deps.json
+D:\Leet Code\231. Power of Two\bin\Debug\net8.0\231. Power of Two.runtimeconfig.json
+D:\Leet Code\231. Power of Two\bin\Debug\net8.0\231. Power of Two.dll
+D:\Leet Code\231. Power of Two\bin\Debug\net8.0\231. Power of Two.pdb
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\231. Power of Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\231. Power of Two.AssemblyInfoInputs.cache
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\231. Power of Two.AssemblyInfo.cs
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\231. Power of Two.csproj.CoreCompileInputs.cache
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\231. Power of Two.dll
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\refint\231. Power of Two.dll
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\231. Power of Two.pdb
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\231. Power of Two.genruntimeconfig.cache
+D:\Leet Code\231. Power of Two\obj\Debug\net8.0\ref\231. Power of Two.dll

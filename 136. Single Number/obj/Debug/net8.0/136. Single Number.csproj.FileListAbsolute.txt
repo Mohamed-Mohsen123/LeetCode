@@ -1,0 +1,14 @@
+D:\Leet Code\136. Single Number\bin\Debug\net8.0\136. Single Number.exe
+D:\Leet Code\136. Single Number\bin\Debug\net8.0\136. Single Number.deps.json
+D:\Leet Code\136. Single Number\bin\Debug\net8.0\136. Single Number.runtimeconfig.json
+D:\Leet Code\136. Single Number\bin\Debug\net8.0\136. Single Number.dll
+D:\Leet Code\136. Single Number\bin\Debug\net8.0\136. Single Number.pdb
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\136. Single Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\136. Single Number.AssemblyInfoInputs.cache
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\136. Single Number.AssemblyInfo.cs
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\136. Single Number.csproj.CoreCompileInputs.cache
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\136. Single Number.dll
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\refint\136. Single Number.dll
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\136. Single Number.pdb
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\136. Single Number.genruntimeconfig.cache
+D:\Leet Code\136. Single Number\obj\Debug\net8.0\ref\136. Single Number.dll
